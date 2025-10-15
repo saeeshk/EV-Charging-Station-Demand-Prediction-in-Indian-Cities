@@ -95,11 +95,3 @@ Achieved accurate demand prediction with a consistent R² score (depending on da
 Visualized charging demand clusters on city maps.
 
 Provided a data-backed recommendation system for station expansion planning.
-
-📈 Future Work
-
-Integrate real-time EV usage data from IoT sensors or APIs.
-
-Deploy a Power BI or Streamlit dashboard for live monitoring.
-
-Enhance model using spatial regression and deep learning.
